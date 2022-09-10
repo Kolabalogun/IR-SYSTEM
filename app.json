@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "newapp",
-    "slug": "newapp",
+    "name": "IR SYSTEM",
+    "slug": "IRSYSTEM",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/al.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/al.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#F0F8FF"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -22,12 +22,14 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "foregroundImage": "./assets/al.png",
+        "backgroundColor": "#F0F8FF"
+      },
+      "package": "com.nacosploy.alertApp",
+      "googleServicesFile": "./google-services.json"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/al.png"
     }
   }
 }

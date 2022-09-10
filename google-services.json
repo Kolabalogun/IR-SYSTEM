@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117656526145",
+    "project_id": "bidapoly-crime-app",
+    "storage_bucket": "bidapoly-crime-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117656526145:android:a28c38dae88dd25a37d5c0",
+        "android_client_info": {
+          "package_name": "com.nacosploy.alertApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117656526145-koj8bb25500ubu2a11lgdivht62e4sll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHEf0Jo6QsnP5FWobsoI2lUDPwUTKXCCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117656526145-koj8bb25500ubu2a11lgdivht62e4sll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
